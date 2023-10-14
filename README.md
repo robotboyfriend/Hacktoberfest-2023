@@ -1,6 +1,6 @@
 # Hacktoberfest-2023
 
-Hacktoberfest 2023 is a month-long celebration of open-source software that encourages participation from developers of all skill levels. It is organized by DigitalOcean in partnership with GitHub and runs throughout the month of October.
+#Hacktoberfest 2023# is a month-long celebration of open-source software that encourages participation from developers of all skill levels. It is organized by DigitalOcean in partnership with GitHub and runs throughout the month of October.
 
 To participate in Hacktoberfest, you need to create a pull request (PR) to any open-source project on GitHub. Your PR must be merged by the project maintainers in order to count towards your total. You need to make four PRs to earn a digital reward.
 
